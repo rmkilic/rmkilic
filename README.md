@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🎯 **Flutter Web ve Mobil Geliştirici**  
+🎯 **Flutter Web and Mobile Developer**
 
-## 🚀 Hakkımda  
-- 📈 3+ Yıl Flutter deneyimi  
+## 🚀 About Me
+- 📈 3+ Years of Flutter experience
 
-## 📫 Bana Ulaşın  
+## 📫 Contact Me
 [LinkedIn](https://www.linkedin.com/in/rauf-mümin-kilicarslan) | [Mail](mailto:raufkilicarslan@gmail.com) | [Portfolyo](https://rmkilic.github.io/)
 
