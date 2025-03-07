@@ -2,7 +2,7 @@
 
 🎯 **Flutter Web and Mobile Developer**
 
-## 🚀 About Me
+## 🚀 [About Me](https://rmkilic.github.io/)
 - 📈 3+ Years of Flutter experience
 
 ## 📫 Contact Me
